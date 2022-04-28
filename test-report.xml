@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/joshuaosei/source/chat-bot-ui/src/App.test.tsx">
+    <testCase name="[App] should render component" duration="23"/>
+  </file>
+</testExecutions>
